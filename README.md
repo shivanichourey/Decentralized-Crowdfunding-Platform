@@ -1,9 +1,9 @@
-Decentralized Crowdfunding Platform
+Decentralized Crowdfunding Platform:
 The Decentralized Crowdfunding Platform is a smart contract-based solution that transforms the traditional fundraising process by eliminating middlemen and leveraging the transparency, security, and immutability of blockchain technology.
 
 This platform allows project creators (campaign owners) to launch funding campaigns with a specified goal amount and deadline. Contributors (users) can send Ether (ETH) to support the campaign during its active period.
 
-🔐 Trustless Fund Management
+🔐 Trustless Fund Management:
 The core functionality is governed by a smart contract, which ensures that:
 
 If the goal is met before the deadline, the campaign owner can withdraw the collected funds.
@@ -12,17 +12,17 @@ If the goal is not met by the deadline, all contributors can claim refunds, and 
 
 This removes the need for trust between campaign creators and supporters—rules are enforced automatically on-chain.
 
-🔎 Transparency & Security
+🔎 Transparency & Security:
 Every transaction is recorded on the blockchain, making contributions fully traceable and tamper-proof. This prevents fraud and misuse of funds, which are common issues in centralized crowdfunding platforms.
 
-⚙️ Key Functions
+⚙️ Key Functions:
 contribute(): Allows users to send funds to a campaign.
 
 withdraw(): Lets the campaign owner claim funds only if the goal is reached.
 
 refund(): Allows contributors to get their money back if the campaign fails.
 
-💡 Use Cases
+💡 Use Cases:
 Startup funding
 
 Community-driven product development
